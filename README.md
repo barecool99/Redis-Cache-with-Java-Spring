@@ -4,7 +4,8 @@
 It works by mapping keys to values with a sort of predefined data model.
 Its benefits include: Mapped key-value-based caching system like MemeCache.</p>
 <br>
-
+ # Personal Notes
+ <p> This project was done to understand Microservice Architecture espeicially caching REST API data. </p>
 # Getting Started
 
 # To Run:
@@ -13,7 +14,7 @@ Its benefits include: Mapped key-value-based caching system like MemeCache.</p>
 * Run MVN clean, install as well as re-import when project opened<br>
 * Download POSTMAN to quickly test the REST API created in personController.java via @RequestMapping<br>
 
-#Architecture
+# Architecture
 -MAIN CLASS TO RUN: RedisApplication.java <br>
 -Independant: Redis Configuration.java- binds the port & created REDIS template.<br>
 -Service package: RedisListCache.java: takes in Key and Value(make it dynamic ofc) & RedisValueCache: Performs CRUD operation on the value<br>
