@@ -2,7 +2,7 @@
 <p>
  What is Redis? - Redis is an open-source, highly replicated, performant, non-relational kind of database and caching server.
 It works by mapping keys to values with a sort of predefined data model.
-Its benefits include: Mapped key-value-based caching system, almost comparable to memcached</p>
+Its benefits include: Mapped key-value-based caching system like MemeCache.</p>
 <br>
 
 # Getting Started
