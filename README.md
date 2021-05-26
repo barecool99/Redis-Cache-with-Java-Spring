@@ -13,6 +13,7 @@ Its benefits include: Mapped key-value-based caching system like MemeCache.</p>
 * Download Spring Web & Redis Dependency from Spring Initialiser<br>
 * Run MVN clean, install as well as re-import when project opened<br>
 * Download POSTMAN to quickly test the REST API created in personController.java via @RequestMapping<br>
+* Must Understand MVC model & little understanding of Microservice Architecture is helpful :)
 
 # Architecture
 -MAIN CLASS TO RUN: RedisApplication.java <br>
